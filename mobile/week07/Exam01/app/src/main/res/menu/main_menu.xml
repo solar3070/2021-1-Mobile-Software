@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="중식" >
+        <menu >
+            <item
+                android:id="@+id/item01"
+                android:title="짜장면" />
+            <item
+                android:id="@+id/item02"
+                android:title="짬뽕" />
+        </menu>
+    </item>
+    <item android:title="한식" >
+        <menu >
+            <item
+                android:id="@+id/item03"
+                android:onClick="onMenuItem03Click"
+                android:title="김치찌개" />
+            <item
+                android:id="@+id/item04"
+                android:onClick="onMenuItem04Click"
+                android:title="순두부찌개" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exam01</string>
+    <string name="toast">TOAST</string>
+    <string name="sound">SOUND</string>
+    <string name="vibration">VIBRATION</string>
+    <string name="cancel">CANCEL</string>
+</resources>
